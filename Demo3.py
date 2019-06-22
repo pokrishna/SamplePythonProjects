@@ -13,4 +13,4 @@ def Merge_str():
        result=result+a[i]
        merge.append(result)
     print(",".join(merge))
-
+Merge_str()
