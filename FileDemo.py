@@ -1,0 +1,7 @@
+f=open('abc.txt','w')
+f.write("Master of Computer Applications  #")
+f.writelines("from Sics   #")
+f.writelines("B.Com Computer Applications   #")
+f.writelines("Worked in Top MNC as SoftWare Engineer   #")
+f.writelines("Python & Django   #")
+f.close()
